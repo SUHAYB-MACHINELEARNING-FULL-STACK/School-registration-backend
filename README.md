@@ -1,1 +1,1 @@
-<div align="center"><strong>NETFLIX backend</strong></div>
+<div align="center"><strong>School Registeration backend</strong></div>
