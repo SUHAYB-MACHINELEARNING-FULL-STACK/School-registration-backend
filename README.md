@@ -1,1 +1,1 @@
-<div align="center"><strong>School Registeration backend</strong></div>
+<div align="center"><strong>School Registration backend</strong></div>
