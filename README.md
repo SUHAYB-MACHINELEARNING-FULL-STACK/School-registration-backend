@@ -1,1 +1,1 @@
-<div align="center">NETFLIX backend</div>
+<div align="center"><strong>NETFLIX backend</strong></div>
